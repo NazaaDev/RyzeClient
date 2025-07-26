@@ -8,13 +8,14 @@ Benvenuto sulla pagina GitHub di Ryze client!
 Ryze Client è un client di Minecraft PvP che offre tantissime funzionalità per arrichhire la tua esperienza di gioco
 
 ## Repository del progetto
-|Parte del client| Link |
+| Parte del client | Link |
 |--|--|
 | Launcher | [Clicca qui](https://github.com/NazaaDev/RyzeLauncher) |
 | RyzeOneConfig | [Clicca qui](https://github.com/NazaaDev/RyzeLauncher) |
 | Sito Web | [Clicca qui](https://github.com/NazaaDev/RyzeWeb) |
 | Cape Mod | [Clicca qui](https://github.com/NazaaDev/RyzeCapes) |
-Le repo non accessibili pubblicamente saranno rese open source in futuro:) 
+
+#### Le repo non accessibili pubblicamente saranno rese open source in futuro:) 
 
 ## Installazione
 1. Scarica il nostro client dal [sito ufficiale](https://ryzeclient.xyz).
